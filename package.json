@@ -1,0 +1,7 @@
+{
+  "name": "medium-poster",
+  "version": "1.0.0",
+  "dependencies": {
+    "puppeteer-core": "^21.0.0"
+  }
+}
